@@ -3,6 +3,7 @@
 <h2>Stop Colab from Disconnecting</h2>
 
 ### Paste both the codes in console by Ctrl+Shift+I  then click console
+</div>
 
 <ul>
 <li>Paste below code to click connect button every minute</li>
@@ -28,4 +29,4 @@ intervalTiming = setInterval(ClickConnect, 60000);
 ```
 </ul>
 
-</div>
+
